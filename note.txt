@@ -1,0 +1,8 @@
+blueprint guide
+https://www.freecodecamp.org/news/how-to-use-blueprints-to-organize-flask-apps/
+
+blueprint project
+https://flask.palletsprojects.com/en/2.3.x/tutorial/views/
+
+git flask
+https://github.com/jakerieger/FlaskIntroduction
